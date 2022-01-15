@@ -58491,9 +58491,9 @@ return A.ah1(A.ah0(!0,A.dN(A.a([this.w8(b),this.Zd(b)],t.E),B.K,B.au),!0),new A.
 w9(){var s=0,r=A.Y(t.dT),q,p,o,n
 var $async$w9=A.S(function(a,b){if(a===1)return A.V(b,r)
 while(true)switch(s){case 0:p=A.aM(51,158,158,158)
-o=A.oq(!1,null,!0,A.UO("assets/image/github_64px.png",45,45),null,!0,null,null,null,null,null,null,null,null,null,new A.Ws(),null)
+o=A.oq(!1,null,!0,A.UO("image/github_64px.png",45,45),null,!0,null,null,null,null,null,null,null,null,null,new A.Ws(),null)
 n=A.eW(null,null,B.j,null,null,null,null,null,null,null,null,16,null,B.er,null,null,!0,null,null,null,null,null,null,null,null)
-q=A.bT(null,A.a_6(A.a([o,A.ahl(A.oq(!1,null,!0,A.UO("assets/image/gmail.png",45,45),null,!0,null,null,null,null,null,null,null,null,null,new A.Wt(),null),"qpfjf56@gmail.com",new A.b4(12,12,12,12),n)],t.E),B.K,B.f4,B.cg),B.k,null,null,new A.eS(p,null,null,null,B.fp),null,60,null,null,null,null,160)
+q=A.bT(null,A.a_6(A.a([o,A.ahl(A.oq(!1,null,!0,A.UO("image/gmail.png",45,45),null,!0,null,null,null,null,null,null,null,null,null,new A.Wt(),null),"qpfjf56@gmail.com",new A.b4(12,12,12,12),n)],t.E),B.K,B.f4,B.cg),B.k,null,null,new A.eS(p,null,null,null,B.fp),null,60,null,null,null,null,160)
 s=1
 break
 case 1:return A.W(q,r)}})
