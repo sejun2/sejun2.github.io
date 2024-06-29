@@ -83033,7 +83033,7 @@ s.push(B.nr)
 m=A.av(a).ax.a===B.V?B.mI:B.mw
 s.push(A.a2m(A.BK(B.T,A.a([new A.mY("ReadMe",J.e(o.a,0),new A.aaZ(o,n),p),new A.mY("ChangeLog",J.e(o.a,1),new A.ab_(o,n),p),new A.mY("Installing",J.e(o.a,2),new A.ab0(o,n),p),new A.mY("Versions",J.e(o.a,3),new A.ab1(o,n),p),new A.mY("Scores",J.e(o.a,4),new A.ab2(o,n),p)],q),B.aa5),m,p,B.at,p,B.dg,p,p,p,p,1/0))
 s.push(B.K0)
-s.push(A.hN(new A.zk(B.aI,n,B.hU,A.aCW(A.a([new A.zC(p),new A.GY(p),new A.L8(p),new A.Rl(p),new A.Px(p)],q),!0,!0,!0),p),1800,p))
+s.push(A.hN(new A.zk(B.aI,n,B.hU,A.aCW(A.a([new A.zC(p),new A.GY(p),new A.L8(p),new A.Rl(p),new A.Px(p)],q),!0,!0,!0),p),2800,p))
 return A.hN(A.fU(s,B.aC,B.a5,B.an),p,this.d)}}
 A.aaW.prototype={
 $0(){A.vp(A.d_("https://github.com/sejun2",0,null),B.fQ)},
