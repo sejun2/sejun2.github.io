@@ -63270,7 +63270,7 @@ A.Ox.prototype={
 W(a){var s,r,q=null,p=A.aT(a).ax.a===B.a2?B.l:B.Fs,o=A.aT(a).ax.a===B.a2?B.GZ:B.GY
 o=A.amp(p,o,!1,new A.ace(this))
 p=t.p
-s=A.eS(q,A.vv(A.a([new A.tG(A.azy(q,q,new A.nA("icons/ic_dart_logo.png",q,q)),35,q),B.Go,B.a1G],p),B.bS,B.a5,B.a6),B.A,B.kD,q,q,q,50,q,B.Ga,q,q,1/0)
+s=A.eS(q,A.vv(A.a([new A.tG(A.azy(q,q,new A.nA("assets/icons/ic_dart_logo.png",q,q)),35,q),B.Go,B.a1G],p),B.bS,B.a5,B.a6),B.A,B.kD,q,q,q,50,q,B.Ga,q,q,1/0)
 r=a.aj(t.IB).r.a
 r===$&&A.b()
 return new A.vx(new A.Jo(A.hP(A.a([s,new A.ez(B.l2,A.vv(A.a([new A.EN(B.H_,new A.acf(this,a),q),A.aox(A.fa(r.jy("_")==="ko"?"korean":"english",q,q,q,q,q,q,q,q,q,q,q,q))],p),B.bS,B.wN,B.a6),q),B.Gr,new A.jU(B.ab,q,q,new A.ez(B.G9,new A.F7(new A.acg(),q),q),q)],p),B.an,B.a5,B.a6),q),o,q)}}
@@ -63314,7 +63314,7 @@ $1(a){return new A.ik(B.jv,$.aI())},
 $S:409}
 A.At.prototype={
 W(a){var s=this,r=null,q=17976931348623157e292,p=t.p,o=A.vv(A.a([s.u5(a,"11","LIKES"),A.eS(r,r,B.A,B.bt,r,r,r,38,B.l1,r,r,r,1),s.u5(a,"4.5","PUB POINTS"),A.eS(r,r,B.A,B.bt,r,r,r,38,B.l1,r,r,r,1),s.u5(a,"72%","POPULARITY")],p),B.bS,B.a5,B.a6),n=A.eS(r,r,B.A,B.bt,r,r,r,1,B.cu,r,r,r,q),m=A.fa("PUBLISHER",r,r,r,r,r,r,r,A.hp(r,r,r,r,r,r,r,r,r,r,r,11,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r,r,r),l=A.amB(4),k=A.amB(8),j=A.fa("sejun2",r,r,r,r,r,r,r,A.hp(r,r,B.dd,r,r,r,r,r,r,r,r,14,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r,r,r),i=A.aT(a).p2.ax
-return A.Jp(A.hP(A.a([o,n,A.hP(A.a([m,l,A.vv(A.a([new A.B3(new A.nA("icons/ic_dart_logo.png",r,r),16,r),k,A.hP(A.a([j,A.fa("sejun2.dev",r,r,r,r,r,r,r,A.hp(r,r,i==null?r:i.b,r,r,r,r,r,r,r,r,11,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r,r,r)],p),B.an,B.a5,B.a6)],p),B.bS,B.a5,B.a6)],p),B.an,B.a5,B.a6),A.eS(r,r,B.A,B.bt,r,r,r,1,B.cu,r,r,r,q),s.Pr(),A.eS(r,r,B.A,B.bt,r,r,r,1,B.cu,r,r,r,q),s.Pq(),A.eS(r,r,B.A,B.bt,r,r,r,1,B.cu,r,r,r,q),B.Fx,A.eS(r,r,B.A,B.bt,r,r,r,1,B.cu,r,r,r,q),B.Fw,A.eS(r,r,B.A,B.bt,r,r,r,1,B.cu,r,r,r,q)],p),B.an,B.a5,B.a6),r,200)},
+return A.Jp(A.hP(A.a([o,n,A.hP(A.a([m,l,A.vv(A.a([new A.B3(new A.nA("assets/icons/ic_dart_logo.png",r,r),16,r),k,A.hP(A.a([j,A.fa("sejun2.dev",r,r,r,r,r,r,r,A.hp(r,r,i==null?r:i.b,r,r,r,r,r,r,r,r,11,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r,r,r)],p),B.an,B.a5,B.a6)],p),B.bS,B.a5,B.a6)],p),B.an,B.a5,B.a6),A.eS(r,r,B.A,B.bt,r,r,r,1,B.cu,r,r,r,q),s.Pr(),A.eS(r,r,B.A,B.bt,r,r,r,1,B.cu,r,r,r,q),s.Pq(),A.eS(r,r,B.A,B.bt,r,r,r,1,B.cu,r,r,r,q),B.Fx,A.eS(r,r,B.A,B.bt,r,r,r,1,B.cu,r,r,r,q),B.Fw,A.eS(r,r,B.A,B.bt,r,r,r,1,B.cu,r,r,r,q)],p),B.an,B.a5,B.a6),r,200)},
 Pq(){var s=null,r=t.p
 return A.hP(A.a([B.a1M,B.es,A.hP(A.a([A.ki(!1,s,!0,B.a1K,s,!0,s,s,s,s,s,s,s,s,s,new A.UM(),s,s,s,s)],r),B.an,B.a5,B.a6)],r),B.an,B.a5,B.a6)},
 u5(a,b,c){var s=null,r=A.fa(b,s,s,s,s,s,s,s,B.YX,s,s,s,s),q=A.aT(a).p2.ax
